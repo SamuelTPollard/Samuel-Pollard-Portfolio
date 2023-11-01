@@ -1,0 +1,4 @@
+During the first term of Computer Science (Games technology) during the foundations of computing modules programming I was expected to create a program to calculate the winner of a game of Sueca.
+Sueca is a Portugese card games whch involves players 2 teams of 2 players competing to out rank the card played by each player based on a trump suit decided at the start of the game.
+The file "suece_scorer" takes in a file with a similar format to the files in "sample_sueca_games" where the first line is the trump card, and the subsequent rows are the cards played by each player in each round. The file "homegame.sueca" is a game of sueca which I played with my family. The program worked as expected and even detect my teammate and brother playing an illegal card
+ The coursework involved being given the name and purpose of each function/method in each file. I achived a mid 1st for this coursework.
