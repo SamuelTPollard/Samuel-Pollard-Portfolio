@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.TextArea?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<AnchorPane id="AnchorPane" prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/21" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.mycompany.javafxapplication1.FileController">
+    <children>
+        <Button fx:id="fileCreateBtn" layoutX="39.0" layoutY="14.0" mnemonicParsing="false" onAction="#fileCreateBtnHandler" text="Create FIle" />
+        <Button fx:id="fileUpdateBtn" layoutX="37.0" layoutY="43.0" mnemonicParsing="false" onAction="#fileUpdateBtnHandler" text="Update FIle" />
+        <Button fx:id="fileDeleteBtn" layoutX="40.0" layoutY="74.0" mnemonicParsing="false" onAction="#fileDeleteBtnHandler" text="Delete File" />
+        <TextArea fx:id="fileContentsBox" layoutX="200.0" layoutY="59.0" prefHeight="65.0" prefWidth="375.0" promptText="File Contents" wrapText="true" />
+        <TextArea fx:id="fileNameBox" layoutX="205.0" layoutY="19.0" prefHeight="7.0" prefWidth="361.0" promptText="File Name" />
+        <Button fx:id="returnBtn" layoutX="13.0" layoutY="362.0" mnemonicParsing="false" onAction="#switchToSecondary" text="Return to user menu" />
+      <TextArea fx:id="FileListBox" editable="false" layoutX="40.0" layoutY="180.0" prefHeight="146.0" prefWidth="465.0" wrapText="true" />
+    </children>
+</AnchorPane>
