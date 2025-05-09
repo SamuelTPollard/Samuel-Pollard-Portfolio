@@ -1,0 +1,25 @@
+﻿  Call.cpp
+  Call_AirQuality.cpp
+C:\Users\samue\source\repos\WDA\WDA\WDA\Header.h(10,10): error C1083: Cannot open include file: 'curl/curl.h': No such file or directory
+  (compiling source file 'Call.cpp')
+  
+C:\Users\samue\source\repos\WDA\WDA\WDA\Header.h(10,10): error C1083: Cannot open include file: 'curl/curl.h': No such file or directory
+  (compiling source file 'Call_AirQuality.cpp')
+  
+  Call_Forecast.cpp
+C:\Users\samue\source\repos\WDA\WDA\WDA\Header.h(10,10): error C1083: Cannot open include file: 'curl/curl.h': No such file or directory
+  (compiling source file 'Call_Forecast.cpp')
+  
+  Call_Historical.cpp
+C:\Users\samue\source\repos\WDA\WDA\WDA\Header.h(10,10): error C1083: Cannot open include file: 'curl/curl.h': No such file or directory
+  (compiling source file 'Call_Historical.cpp')
+  
+  Location.cpp
+C:\Users\samue\source\repos\WDA\WDA\WDA\Header.h(10,10): error C1083: Cannot open include file: 'curl/curl.h': No such file or directory
+  (compiling source file 'Location.cpp')
+  
+  WDA.cpp
+C:\Users\samue\source\repos\WDA\WDA\WDA\Header.h(10,10): error C1083: Cannot open include file: 'curl/curl.h': No such file or directory
+  (compiling source file 'WDA.cpp')
+  
+  Generating Code...

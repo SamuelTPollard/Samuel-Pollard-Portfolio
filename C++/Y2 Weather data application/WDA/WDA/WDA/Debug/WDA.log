@@ -1,0 +1,14 @@
+﻿  Call.cpp
+C:\Users\samue\source\repos\WDA\WDA\WDA\Call.cpp(240,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\samue\source\repos\WDA\WDA\WDA\Call.cpp(254,34): warning C4018: '<=': signed/unsigned mismatch
+  Call_AirQuality.cpp
+  Call_Forecast.cpp
+  Call_Historical.cpp
+  Location.cpp
+C:\Users\samue\source\repos\WDA\WDA\WDA\Location.cpp(107,22): warning C4018: '<': signed/unsigned mismatch
+  WDA.cpp
+C:\Users\samue\source\repos\WDA\WDA\WDA\WDA.cpp(186,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\samue\source\repos\WDA\WDA\WDA\WDA.cpp(203,31): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  WDA.vcxproj -> C:\Users\samue\source\repos\WDA\WDA\Debug\WDA.exe
